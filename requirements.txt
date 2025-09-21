@@ -1,0 +1,12 @@
+streamlit
+pdfplumber
+python-docx
+docx2txt
+PyMuPDF
+pandas
+sentence-transformers
+torch
+numpy
+faiss-cpu
+spacy
+
